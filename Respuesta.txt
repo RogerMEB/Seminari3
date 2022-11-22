@@ -1,0 +1,6 @@
+Seminari 3
+
+Of the diferent codecs i have tried in this seminari, clearly the worst of all was VP8, and because of that
+there is already an improved version, vp9. Between vp9, h265 and av1 there was not much difference.
+Specially between the last two. However av1 takes a long time in converting, so svtav1 is an aproximation 
+that can be used in order not to wait many minutes for the program to execute. 
